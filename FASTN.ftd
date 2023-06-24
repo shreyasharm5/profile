@@ -6,6 +6,7 @@ favicon: /-/shreyasharm5.github.io/profile/favicon.ico
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/opensans-typography
 
 -- fastn.auto-import: shreyasharm5.github.io/profile/FASTN/ds
 -- fastn.auto-import: shreyasharm5.github.io/profile/assets
